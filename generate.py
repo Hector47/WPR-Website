@@ -18,10 +18,10 @@ from tqdm import tqdm
 from minify_html import minify as minify_html
 
 output_dir = 'dist'
-repo_url_base = 'https://raw.githubusercontent.com/mborgerson/xemu-website/master/'
+repo_url_base = 'https://raw.githubusercontent.com/Hector47/WPR-Website/master/'
 compatibility_reports_url = 'https://reports.xemu.app/compatibility'
 compatibility_reports_url_verify_certs = True
-main_url_base = 'https://xemu.app'
+main_url_base = 'https://hector47.github.io/WPR-Website'
 # compatibility_reports_url = 'https://127.0.0.1/compatibility'
 # compatibility_reports_url_verify_certs = False
 
